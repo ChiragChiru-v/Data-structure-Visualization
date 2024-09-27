@@ -1,5 +1,6 @@
 # Data-structure-Visualization
-Stack and Queue Visualization
+<h3>Stack and Queue Visualization</h3>
+
 This project is a frontend application designed to visualize operations on fundamental data structures: Stack and Queue. Built using HTML5, CSS3, and JavaScript, it allows users to interact with these structures in real-time by performing essential operations such as:
 
 Push and Pop for the Stack
