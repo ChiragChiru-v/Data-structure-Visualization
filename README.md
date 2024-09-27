@@ -6,4 +6,5 @@ This project is a frontend application designed to visualize operations on funda
 <li>Push and Pop for the Stack</li>
 <li>Insert and Delete for the Queue</li>
 </ul>
+
 The application offers a clean and intuitive interface that helps users understand how these operations affect the underlying data structures. It serves as an educational tool for learning data structure concepts in a visual and interactive way.
